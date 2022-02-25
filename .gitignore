@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# From the Folder
+/_TerrainAutoUpgrade/
+/_TerrainAutoUpgrade/*
+/Flooded_Grounds
+/Flooded_Grounds/*
